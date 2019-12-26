@@ -3,14 +3,14 @@
 
 
 ### 12월 24일
-* Get method1
- ![q1](./image/repo_12_24_1.jpg)
+* Get method
+ ![q1](./image/repo_12_24_1.png)
 * Push method
- ![q2](./image/repo_12_24_2.jpg)
+ ![q2](./image/repo_12_24_2.png)
 * Put method
- ![q3](./image/repo_12_24_3.jpg)
+ ![q3](./image/repo_12_24_3.png)
 * Delete method
- ![q4](./image/repo_12_24_4.jpg)
+ ![q4](./image/repo_12_24_4.png)
 
 
  ### 12월 25일
