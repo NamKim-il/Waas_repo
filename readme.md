@@ -4,12 +4,12 @@
 
 ### 12월 24일
 * Get method
- ![q1](./image/1.jpg)
+![q1](./image/1.jpg)
 * Push method
- ![q2](./image/2.jpg)
+![q2](./image/2.jpg)
 * Put method
- ![q3](./image/3.jpg)
+![q3](./image/3.jpg)
 * Delete method
- ![q4](./image/4.jpg)
+![q4](./image/4.jpg)
 
  ### 12월 25일
