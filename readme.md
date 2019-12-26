@@ -3,7 +3,7 @@
 
 
 ### 12월 24일
-* Get method
+* Get method1
  ![q1](./image/repo_12_24_1.jpg)
 * Push method
  ![q2](./image/repo_12_24_2.jpg)
@@ -11,5 +11,6 @@
  ![q3](./image/repo_12_24_3.jpg)
 * Delete method
  ![q4](./image/repo_12_24_4.jpg)
+
 
  ### 12월 25일
